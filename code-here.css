@@ -1,24 +1,57 @@
 #classic {
-
+    text-align: justify;
+    padding: 1em 1em 0 1em;
 }
 
 #modern {
-
+    box-shadow: 2px 4px 12px;
+    text-align: center;
+    padding: 1em 1em 0 1em;
+    background-color: gold;
+    font-family: sans-serif;
+    font-weight: bold;
+    
 }
 
 #impact {
+    border: 1em double black;
+    padding: 1em 1em 0 1em;
+    text-align: center;
+    background-color: lightgreen;
+    font-family: sans-serif;
+
 
 }
 
 #elise {
+    border: 6px groove beige;
+    background-color: floralwhite;
+    font-family: cursive;
+    text-align: center;
+    padding: 1em;
 
 }
 
 #one, #two  {
+    display: inline-block;
+    padding: 1em;
+    text-align: center;
+    font-family: sans-serif;
+    border: 8px ridge rgb(57, 187, 187);
+    background-color: rgb(131, 241, 205);
+
+    margin: 6em 0em 6em 2em;
+
 
 }
 
 #gaudi {
+    background-color: rgb(247, 139, 89);
+    text-align: center;
+    border-radius: 1em 3em;
+    padding: 1em;
+    font-family: cursive;
+    box-shadow: 2px 4px 2px grey;
 
 }
 
